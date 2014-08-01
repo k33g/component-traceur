@@ -1,0 +1,5 @@
+{
+  "name": "traceur",
+  "version": "0.0.53",
+  "main": "./traceur.js"
+}
