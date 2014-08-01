@@ -1,0 +1,25 @@
+{
+  "name": "component-traceur",
+  "description": "Traceur component for frontend package managers.",
+  "version": "0.0.52",
+  "homepage": "https://github.com/k33g/component-traceur",
+  "scripts": {
+    "build": "npm install && grunt"
+  },
+  "author": {
+    "name": "K33G_ORG",
+    "email": "ph.charriere@gmail.com",
+    "url": "https://github.com/k33g"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/k33g/component-traceur.git"
+  },
+  "devDependencies": {
+    "traceur": "0.0.52",
+    "grunt": "~0.4.2",
+    "grunt-contrib-copy": "~0.5.0",
+    "grunt-contrib-uglify": "~0.3.2",
+    "grunt-cli": "^0.1.13"
+  }
+}
