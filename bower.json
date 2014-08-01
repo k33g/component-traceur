@@ -1,5 +1,11 @@
 {
   "name": "traceur",
   "version": "0.0.53",
-  "main": "./traceur.js"
+  "main": "./traceur.js",
+  "ignore": [
+    "node_modules",
+    "Gruntfile.js",
+    "*.json",
+    ".*"
+  ]
 }
